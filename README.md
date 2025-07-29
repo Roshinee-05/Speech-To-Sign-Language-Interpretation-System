@@ -33,7 +33,6 @@ To design and implement an efficient system that:
 
 ## System Workflow
 
-```text
 1. Real-time speech input (MATLAB)
 2. Save as .wav (16 kHz, mono)
 ️3. Python script (Wav2Vec2.0 → Text)
