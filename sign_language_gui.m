@@ -68,7 +68,7 @@ function stopAndProcessRecording(statusLabel, textBox, videoDisplay)
 
     % Set Python environment
     try
-        pyenv("Version", "C:\Users\nivet\AppData\Local\Programs\Python\Python311\python.exe");
+        pyenv("Version", "Path to python.exe");
     catch
         % Already set
     end
@@ -82,7 +82,7 @@ function stopAndProcessRecording(statusLabel, textBox, videoDisplay)
         drawnow;
 
         % Play each word's video
-        videoFolder = "C:\Users\nivet\OneDrive\ドキュメント\MATLAB\DSP_PRO\videos\INDIAN SIGN LANGUAGE ANIMATED VIDEOS";
+        videoFolder = "Path to INDIAN SIGN LANGUAGE ANIMATED VIDEOS folder";
         words = split(transcribedTextStr);
 
         for i = 1:length(words)
