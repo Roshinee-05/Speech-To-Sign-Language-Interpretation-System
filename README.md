@@ -33,12 +33,12 @@ To design and implement an efficient system that:
 
 ## System Workflow
 
-1. Real-time speech input (MATLAB)
-2. Save as .wav (16 kHz, mono)
-️3. Python script (Wav2Vec2.0 → Text)
-️4. Text preprocessing & word splitting
-️5. Match each word to ISL animation (.mp4)
-6. Display animations via OpenCV GUI
+1.  Real-time speech input (MATLAB)
+2.  Save as .wav (16 kHz, mono)
+3.  Python script (Wav2Vec2.0 → Text)
+4.  Text preprocessing & word splitting
+5.  Match each word to ISL animation (.mp4)
+6.  Display animations via OpenCV GUI
 
 ---
 
