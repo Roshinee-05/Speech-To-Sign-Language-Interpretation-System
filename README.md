@@ -42,6 +42,7 @@ To design and implement an efficient system that:
 6. Display animations via OpenCV GUI
 
 ---
+
 ## Output Video
 
 🎬 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1eMC5qec7oBaFo1L9DzdKfhBgPEUuZ_le/view?usp=sharing)
