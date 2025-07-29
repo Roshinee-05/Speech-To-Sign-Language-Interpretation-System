@@ -46,7 +46,7 @@ To design and implement an efficient system that:
 
 🎬 [ISL animated videos by K.Chouhan, Kaggle 2021](https://www.kaggle.com/datasets/koushikchouhan/indian-sign-language-animated-videos)
 
-> *This link provides the an ISL animated video dataset for 151 words*
+> *This link provides the ISL animated video dataset for 151 words*
 
 ---
 
