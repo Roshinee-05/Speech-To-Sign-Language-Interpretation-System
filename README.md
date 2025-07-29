@@ -44,7 +44,8 @@ To design and implement an efficient system that:
 ---
 ## Output Video
 
-🎬 [Click here to watch the demo video](https://drive.google.com/file/d/1eMC5qec7oBaFo1L9DzdKfhBgPEUuZ_le/view?usp=sharing_eil_se_dm&ts=68890d21)
+🎬 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1eMC5qec7oBaFo1L9DzdKfhBgPEUuZ_le/view?usp=sharing)
 
-> *Demonstration of the real-time speech-to-sign language interpretation system in action.*
+> *This video demonstrates the real-time speech-to-sign language interpretation system.*
+
 
