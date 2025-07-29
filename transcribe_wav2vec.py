@@ -23,7 +23,7 @@ def transcribe_audio(audio_path):
 
     return transcription
 
-def show_sign_videos(transcription, video_folder=r"C:\Users\nivet\OneDrive\ドキュメント\MATLAB\DSP_PRO\videos\INDIAN SIGN LANGUAGE ANIMATED VIDEOS"):
+def show_sign_videos(transcription, video_folder=r"Path to INDIAN SIGN LANGUAGE ANIMATED VIDEOS folder"):
     if hasattr(transcription, 'lower'):  # MATLAB passes a py.str object
         transcription = transcription.lower()
         transcription = transcription.capitalize()
