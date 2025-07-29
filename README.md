@@ -41,6 +41,7 @@ To design and implement an efficient system that:
 ️5. Match each word to ISL animation (.mp4)
 6. Display animations via OpenCV GUI
 
+---
 ## Output Video
 
 🎬 [Click here to watch the demo video](https://drive.google.com/file/d/1eMC5qec7oBaFo1L9DzdKfhBgPEUuZ_le/view?usp=sharing_eil_se_dm&ts=68890d21)
