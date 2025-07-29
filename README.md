@@ -1,8 +1,8 @@
-# 🧠 Speech-to-Sign Language Interpretation System 🇮🇳
+# Speech-to-Sign Language Interpretation System 🇮🇳
 
 > Bridging the communication gap between the hearing and speech-impaired using Deep Learning and Indian Sign Language (ISL)
 
-## 📌 Overview
+## Overview
 
 This project presents an **AI-powered real-time speech-to-sign language interpretation system** aimed at enhancing inclusive communication for the aurally challenged. The system captures spoken English, transcribes it using **Wav2Vec2.0**, and displays corresponding **Indian Sign Language (ISL)** animations through an intuitive GUI interface.
 
@@ -10,7 +10,7 @@ Developed using a **hybrid MATLAB–Python framework**, the system serves as a l
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To design and implement an efficient system that:
 - Captures real-time speech using MATLAB
@@ -20,7 +20,7 @@ To design and implement an efficient system that:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool/Library     | Purpose                         |
 |------------------|---------------------------------|
@@ -32,12 +32,12 @@ To design and implement an efficient system that:
 
 ---
 
-## 🔁 System Workflow
+## System Workflow
 
 ```text
-1️⃣ Real-time speech input (MATLAB)
-2️⃣ Save as .wav (16 kHz, mono)
-3️⃣ Python script (Wav2Vec2.0 → Text)
-4️⃣ Text preprocessing & word splitting
-5️⃣ Match each word to ISL animation (.mp4)
-6️⃣ Display animations via OpenCV GUI
+1. Real-time speech input (MATLAB)
+2. Save as .wav (16 kHz, mono)
+️3. Python script (Wav2Vec2.0 → Text)
+️4. Text preprocessing & word splitting
+️5. Match each word to ISL animation (.mp4)
+6. Display animations via OpenCV GUI
