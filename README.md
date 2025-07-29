@@ -1,4 +1,4 @@
-# Speech-to-Sign Language Interpretation System 🇮🇳
+# An Efficient Speech-to-Sign Language Interpretation System 
 
 > Bridging the communication gap between the hearing and speech-impaired using Deep Learning and Indian Sign Language (ISL)
 
@@ -28,7 +28,6 @@ To design and implement an efficient system that:
 | **Python**       | ASR, file handling, playback    |
 | **Hugging Face** | Wav2Vec2.0 Speech-to-Text       |
 | **OpenCV (cv2)** | Video playback in Python        |
-| **MATLAB Engine API for Python** | MATLAB–Python communication |
 
 ---
 
